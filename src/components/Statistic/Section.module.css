@@ -1,0 +1,15 @@
+.statistics {
+  width: 400px;
+  height: 153px;
+  margin-right: 20px;
+  border: solid 0.5px #c7c5c5;
+  border-bottom: none;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 500;
+  color: rgb(143, 143, 143);
+}

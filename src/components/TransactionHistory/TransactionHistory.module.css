@@ -1,0 +1,11 @@
+.history {
+  width: 400px;
+  border: solid 0.5px #c7c5c5;
+}
+
+th {
+  padding: 20px;
+  border: solid 0.5px #c7c5c5;
+  background-color: dodgerblue;
+  color: floralwhite;
+}
